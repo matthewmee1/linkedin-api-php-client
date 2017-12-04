@@ -66,7 +66,7 @@ class Client
      * string
      */
     const OAUTH2_API_ROOT = 'https://www.linkedin.com/oauth/v2/';
-    const API_ROOT = 'https://api.linkedin.com/v1/';
+    const API_ROOT = 'https://api.linkedin.com/v2/';
 
     /**
      * Client constructor.
